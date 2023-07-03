@@ -2,7 +2,7 @@
 
 namespace Pim\Bundle\CustomEntityBundle\Updater;
 
-use Akeneo\Channel\Infrastructure\Doctrine\Repository\LocaleRepository
+use Akeneo\Channel\Infrastructure\Doctrine\Repository\LocaleRepository;
 use Akeneo\Pim\Enrichment\Component\FileStorage;
 use Akeneo\Pim\Enrichment\Component\Product\Model\ReferenceDataInterface;
 use Akeneo\Tool\Component\FileStorage\File\FileStorerInterface;
